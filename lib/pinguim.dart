@@ -15,6 +15,7 @@ class _PinguimState extends State<Pinguim> {
         child: Column(
           children: [
             Text("Projeto teste da oficina de git"),
+            Text("Alteração")
           ],
         ),
       )
